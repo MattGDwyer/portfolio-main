@@ -1,0 +1,32 @@
+{
+  "name": "devfolio-pro",
+  "version": "1.0.0",
+  "description": "Matthew Dwyer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattGDwyer/portfolio-main.git"
+  },
+  "keywords": [
+    "portfolio",
+    "bootstrap",
+    "express",
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "author": "Matthew Dwyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattGDwyer/portfolio-main/issues"
+  },
+  "homepage": "https://github.com/MattGDwyer/portfolio-main#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^18.7.0"
+  }
+}
