@@ -490,7 +490,7 @@ a:hover {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -629,7 +629,7 @@ a:hover {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -845,6 +845,7 @@ a:hover {
 
 .about-mf .about-img img {
   margin-left: 10px;
+  height: 20vh;
 }
 
 @media (min-width: 767px) {
