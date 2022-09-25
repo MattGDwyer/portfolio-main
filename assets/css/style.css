@@ -856,6 +856,12 @@ a:hover {
   height: 20vh;
 }
 
+@media (min-width: 800px) {
+  .matt {
+    height: auto!important;
+  }
+}
+
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;
@@ -977,8 +983,9 @@ a:hover {
 .work-img img {
   transition: all 1s;
 }
-.img-sage-forest {
 
+.dragging {
+  height: 100px!important;
 }
 
 .work-content {
